@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Aile\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.exe
+C:\Users\ASUS\source\repos\Aile\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.deps.json
+C:\Users\ASUS\source\repos\Aile\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.runtimeconfig.json
+C:\Users\ASUS\source\repos\Aile\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Aile\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.dll
+C:\Users\ASUS\source\repos\Aile\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.pdb
+C:\Users\ASUS\source\repos\Aile\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Aile\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Aile\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Aile\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Aile\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Aile\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.dll
+C:\Users\ASUS\source\repos\Aile\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.pdb
+C:\Users\ASUS\source\repos\Aile\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.genruntimeconfig.cache
